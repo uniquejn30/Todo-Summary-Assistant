@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniquejn30/Todo-Summary-Assistant.git"
+  },
+  "author": "uniquejn30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniquejn30/Todo-Summary-Assistant/issues"
+  },
+  "homepage": "https://github.com/uniquejn30/Todo-Summary-Assistant#readme",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0"
+  }
+}
