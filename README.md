@@ -1,6 +1,6 @@
 # 📝 Todo Summary Assistant
 
-A productivity-focused, full-stack application that helps users manage their tasks efficiently and generate smart summaries using AI. Built with **React** frontend, **Spring Boot** or **Node.js** backend, and integrated with **LLM APIs** and **Slack** for streamlined workflows.
+A productivity-focused, full-stack application that helps users manage their tasks efficiently and generate smart summaries using AI. Built with **React** frontend, **Node.js** backend, and integrated with **LLM APIs** and **Slack** for streamlined workflows.
 
 ---
 
